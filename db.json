@@ -1,0 +1,104 @@
+{
+    "loremIpsum": [
+        {
+            "id": "lo001",
+            "category": "short",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam te quidem video minime esse deterritum. Velut ego nunc moveor. Quantum Aristoxeni ingenium consumptum videmus in musicis? Erit enim mecum, si tecum erit."
+        },
+        {
+            "id": "lo002",
+            "category": "short",
+            "text": "Quare ad ea primum, si videtur; Sed quod proximum fuit non vidit. Istam voluptatem, inquit, Epicurus ignorat? Hoc tu nunc in illo probas."
+        },
+        {
+            "id": "lo003",
+            "category": "short",
+            "text": "Traditur, inquit, ab Epicuro ratio neglegendi doloris. Huius ego nunc auctoritatem sequens idem faciam. Eam stabilem appellas. Iam id ipsum absurdum, maximum malum neglegi."
+        },
+        {
+            "id": "lo004",
+            "category": "short",
+            "text": "Quid Zeno? Cur iustitia laudatur? Tollenda est atque extrahenda radicitus."
+        },
+        {
+            "id": "lo005",
+            "category": "short",
+            "text": "Ubi ut eam caperet aut quando? Contemnit enim disserendi elegantiam, confuse loquitur. Utram tandem linguam nescio? Falli igitur possumus. Cui Tubuli nomen odio non est?"
+        },
+        {
+            "id": "lo006",
+            "category": "short",
+            "text": "Quis enim redargueret? Idemne, quod iucunde? Quod iam a me expectare noli. Scaevolam M. Certe, nisi voluptatem tanti aestimaretis. Sed ad bona praeterita redeamus. Sed plane dicit quod intellegit."
+        },
+        {
+            "id": "lo007",
+            "category": "short",
+            "text": "Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris. Duo Reges: constructio interrete. Nonne igitur tibi videntur, inquit, mala?"
+        },
+        {
+            "id": "lo008",
+            "category": "short",
+            "text": "Utram tandem linguam nescio? Quid, quod res alia tota est? Tibi hoc incredibile, quod beatissimum. Mihi enim satis est, ipsis non satis."
+        },
+        {
+            "id": "lo009",
+            "category": "medium",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit. Quod vestri non item. Sedulo, inquam, faciam. Proclivi currit oratio. Memini me adesse P."
+        },
+        {
+            "id": "lo010",
+            "category": "medium",
+            "text": "Indicant pueri, in quibus ut in speculis natura cernitur. Septem autem illi non suo, sed populorum suffragio omnium nominati sunt. Ita graviter et severe voluptatem secrevit a bono. Quae quidem vel cum periculo est quaerenda vobis; Hoc loco tenere se Triarius non potuit. Quae diligentissime contra Aristonem dicuntur a Chryippo."
+        },
+        {
+            "id": "lo011",
+            "category": "medium",
+            "text": "Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem; Quod ea non occurrentia fingunt, vincunt Aristonem; A mene tu? Si longus, levis. Sed ille, ut dixi, vitiose. Cur post Tarentum ad Archytam? Non ego tecum iam ita iocabor, ut isdem his de rebus, cum L."
+        },
+        {
+            "id": "lo012",
+            "category": "medium",
+            "text": "Duo enim genera quae erant, fecit tria. Duo Reges: constructio interrete. Nondum autem explanatum satis, erat, quid maxime natura vellet. Sed tu istuc dixti bene Latine, parum plane. Sin laboramus, quis est, qui alienae modum statuat industriae? Si longus, levis dictata sunt. Haec quo modo conveniant, non sane intellego. Sed fortuna fortis;"
+        },
+        {
+            "id": "lo013",
+            "category": "medium",
+            "text": "Est enim effectrix multarum et magnarum voluptatum. Quid enim me prohiberet Epicureum esse, si probarem, quae ille diceret? Quas enim kakaw Graeci appellant, vitia malo quam malitias nominare. An ea, quae per vinitorem antea consequebatur, per se ipsa curabit?"
+        },
+        {
+            "id": "lo014",
+            "category": "medium",
+            "text": "Tubulo putas dicere? Egone quaeris, inquit, quid sentiam? Certe non potest. Sic enim censent, oportunitatis esse beate vivere. Quem ad modum quis ambulet, sedeat, qui ductus oris, qui vultus in quoque sit? Que Manilium, ab iisque M."
+        },
+        {
+            "id": "lo015",
+            "category": "long",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in ceteris artibus cum dicitur artificiose, posterum quodam modo et consequens putandum est, quod illi §pigennhmatikÒn appellant; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Eiuro, inquit adridens, iniquum, hac quidem de re; Maximas vero virtutes iacere omnis necesse est voluptate dominante. Itaque dicunt nec dubitant: mihi sic usus est, tibi ut opus est facto, fac. Duo Reges: constructio interrete. Duarum enim vitarum nobis erunt instituta capienda. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris?"
+        },
+        {
+            "id": "lo016",
+            "category": "long",
+            "text": "Atque omnia quidem scire, cuiuscumque modi sint, cupere curiosorum, duci vero maiorum rerum contemplatione ad cupiditatem scientiae summorum virorum est putandum. Cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam. Homines optimi non intellegunt totam rationem everti, si ita res se habeat. Peccata autem partim esse tolerabilia, partim nullo modo, propterea quod alia peccata plures, alia pauciores quasi numeros officii praeterirent. Portenta haec esse dicit, neque ea ratione ullo modo posse vivi; Quid enim mihi potest esse optatius quam cum Catone, omnium virtutum auctore, de virtutibus disputare? Expressa vero in iis aetatibus, quae iam confirmatae sunt. Qui autem de summo bono dissentit de tota philosophiae ratione dissentit. Cupit enim dícere nihil posse ad beatam vitam deesse sapienti. Sin eam, quam Hieronymus, ne fecisset idem, ut voluptatem illam Aristippi in prima commendatione poneret."
+        },
+        {
+            "id": "lo017",
+            "category": "long",
+            "text": "Iam id ipsum absurdum, maximum malum neglegi. Nec hoc ille non vidit, sed verborum magnificentia est et gloria delectatus. Nos autem non solum beatae vitae istam esse oblectationem videmus, sed etiam levamentum miseriarum. Itaque ne iustitiam quidem recte quis dixerit per se ipsam optabilem, sed quia iucunditatis vel plurimum afferat. Quid ad utilitatem tantae pecuniae? Perfecto enim et concluso neque virtutibus neque amicitiis usquam locum esse, si ad voluptatem omnia referantur, nihil praeterea est magnopere dicendum. Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam. Perfecto enim et concluso neque virtutibus neque amicitiis usquam locum esse, si ad voluptatem omnia referantur, nihil praeterea est magnopere dicendum. Eaedem res maneant alio modo. Huc et illuc, Torquate, vos versetis licet, nihil in hac praeclara epistula scriptum ab Epicuro congruens et conveniens decretis eius reperietis."
+        },
+        {
+            "id": "lo018",
+            "category": "long",
+            "text": "In qua si nihil est praeter rationem, sit in una virtute finis bonorum; Quod autem principium officii quaerunt, melius quam Pyrrho; Bonum appello quicquid secundurn naturam est, quod contra malum, nec ego solus, sed tu etiam, Chrysippe, in foro, domi; Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. At vero illa, quae Peripatetici, quae Stoici dicunt, semper tibi in ore sunt in iudiciis, in senatu. At habetur! Et ego id scilicet nesciebam! Sed ut sit, etiamne post mortem coletur? Ergo id est convenienter naturae vivere, a natura discedere. Posuisti etiam dicere alios foedus quoddam inter se facere sapientis, ut, quem ad modum sint in se ipsos animati, eodem modo sint erga amicos; Similiter sensus, cum accessit ad naturam, tuetur illam quidem, sed etiam se tuetur; Semper enim ex eo, quod maximas partes continet latissimeque funditur, tota res appellatur."
+        },
+        {
+            "id": "lo019",
+            "category": "long",
+            "text": "Sed haec quidem liberius ab eo dicuntur et saepius. Sequitur disserendi ratio cognitioque naturae; At, si voluptas esset bonum, desideraret. Addebat etiam se in legem Voconiam iuratum contra eam facere non audere, nisi aliter amicis videretur. Nam quod ait sensibus ipsis iudicari voluptatem bonum esse, dolorem malum, plus tribuit sensibus, quam nobis leges permittunt, cum privatarum litium iudices sumus. Atqui, inquam, Cato, si istud optinueris, traducas me ad te totum licebit. Id enim volumus, id contendimus, ut officii fructus sit ipsum officium. Quod iam a me expectare noli."
+        },
+        {
+            "id": "lo020",
+            "category": "long",
+            "text": "Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Itaque hic ipse iam pridem est reiectus; Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines. Nisi enim id faceret, cur Plato Aegyptum peragravit, ut a sacerdotibus barbaris numeros et caelestia acciperet? Num igitur utiliorem tibi hunc Triarium putas esse posse, quam si tua sint Puteolis granaria? Omnes, qui non sint sapientes, aeque miseros esse, sapientes omnes summe beatos, recte facta omnia aequalia, omnia peccata paria; Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam. Praeclare hoc quidem. Multoque hoc melius nos veriusque quam Stoici. Ut non sine causa ex iis memoriae ducta sit disciplina. His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent. Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est."
+        }
+    ]
+}
